@@ -7,7 +7,7 @@ A simple React Native application for performing CRUD operations.
 1. Clone the repository:
 
    ```
-   [https://github.com/swastimishra/react-native-app.git]
+   https://github.com/swastimishra/react-native-app.git
    ```
 
 2. Install dependencies:
